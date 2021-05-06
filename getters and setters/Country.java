@@ -2,7 +2,7 @@ package project1;
 
 /**
  * The Country class was created to be a template for the Country object.
- * THe class includes the encapsulated variables as well as the appropriate
+ * The class includes the encapsulated variables as well as the appropriate
  * getters and setters. The class also contains a constructor, a Compare method, and a method
  * to print the objects.
  * @author Joshua Nelson
